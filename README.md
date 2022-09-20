@@ -1,5 +1,5 @@
-# D-Lab's Excel Fundamentals Workshop
-This repository contains the materials for D-Lab's Excel Fundamentals workshop. No prior experience is assumed.
+# D-Lab Excel Fundamentals Workshop
+This repository contains the materials for the D-Lab Excel Fundamentals workshop. No prior experience is assumed.
 
 ## Workshop Goals
 In this workshop we introduce the fundamentals of spreadsheet data analysis in Microsoft Excel (with supporting materials for Google Sheets). We will introduce the Excel interface and tabs, then demonstrate how Excel functions work. Then, a combination of slides and to-it-yourself exercises will cover basic functions for dealing with text, math, logic, dates, and errors. Finally, we cover data visualization and analysis using charts and pivot tables.
