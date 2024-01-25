@@ -26,7 +26,7 @@ Check out the following resources to learn more about Excel:
 - udemy: https://www.udemy.com/topic/excel/
 - LinkedIn Learning: https://www.linkedin.com/learning/topics/microsoft-excel
 - Microsoft Excel Support: https://support.microsoft.com/en-us/excel
-- [Dictionary of Excel Functiona](https://support.microsoft.com/en-us/office/excel-functions-alphabetical-b3944572-255d-4efb-bb96-c6d90033e188)
+- [Dictionary of Excel Functions](https://support.microsoft.com/en-us/office/excel-functions-alphabetical-b3944572-255d-4efb-bb96-c6d90033e188)
 
 # About the UC Berkeley D-Lab
 
