@@ -11,13 +11,16 @@ Those in the UC Berkeley community have free access to Microsoft Excel, which ca
 https://software.berkeley.edu/microsoft-365-apps-enterprise
 
 Excel users - complete the following steps:
-1. Make sure Microsoft Excel is downloaded to your computer, using the link above as needed
-2. Download the workbook "Excel Training Workbook.xlsx" from the Google Drive folder (https://drive.google.com/drive/u/1/folders/1L5dgfjUZS-dLrFo2cwwbbbYSK_euCHar)
-3. Open the downloaded workbook on your computer using Microsoft Excel
+1. Make sure Microsoft Excel is downloaded to your computer, using the link above as needed.
+2. Open the Google Drive folder (https://drive.google.com/drive/u/1/folders/1L5dgfjUZS-dLrFo2cwwbbbYSK_euCHar)
+3. Open the Google Slides document "Excel Data Analysis - Part 1" or "Excel Data Analysis - Part 2".
+4. Download the workbook "Excel Training Workbook.xlsx" from the Google Drive folder.
+5. Open the downloaded workbook on your computer using Microsoft Excel.
 
 Google Sheets users - complete the following steps: 
 1. Open the Google Drive folder (https://drive.google.com/drive/u/1/folders/1L5dgfjUZS-dLrFo2cwwbbbYSK_euCHar)
-2. Open the "Excel Training Workbook" Google Sheets file
+2. 3. Open the Google Slides document "Excel Data Analysis - Part 1" or "Excel Data Analysis - Part 2".
+3. Open the "Excel Training Workbook" Google Sheets file from the Google Drive folder.
 
 # Additional Resources
 
