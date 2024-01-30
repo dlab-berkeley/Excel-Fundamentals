@@ -12,7 +12,7 @@ https://software.berkeley.edu/microsoft-365-apps-enterprise
 
 Excel users - complete the following steps:
 1. Make sure Microsoft Excel is downloaded to your computer, using the link above as needed.
-2. Open the Google Drive folder (https://drive.google.com/drive/u/1/folders/1L5dgfjUZS-dLrFo2cwwbbbYSK_euCHar)
+2. Open the [D-Lab Google Drive folder](https://drive.google.com/drive/u/1/folders/1L5dgfjUZS-dLrFo2cwwbbbYSK_euCHar)
 3. Open the Google Slides document "Excel Fundamentals - Part 1" or "Excel Fundamentals - Part 2".
 4. Download the workbook "Excel Training Workbook.xlsx" from the Google Drive folder.
 5. Open the downloaded workbook on your computer using Microsoft Excel.
@@ -25,10 +25,10 @@ Google Sheets users - complete the following steps:
 # Additional Resources
 
 Check out the following resources to learn more about Excel:
-- ExcelJet: https://exceljet.net/excel-topics
-- udemy: https://www.udemy.com/topic/excel/
-- LinkedIn Learning: https://www.linkedin.com/learning/topics/microsoft-excel
-- Microsoft Excel Support: https://support.microsoft.com/en-us/excel
+- [ExcelJet](https://exceljet.net/excel-topics)
+- [udemy](https://www.udemy.com/topic/excel/)
+- [LinkedIn Learning](https://www.linkedin.com/learning/topics/microsoft-excel)
+- [Microsoft Excel Support](https://support.microsoft.com/en-us/excel)
 - [Dictionary of Excel Functions](https://support.microsoft.com/en-us/office/excel-functions-alphabetical-b3944572-255d-4efb-bb96-c6d90033e188)
 
 # About the UC Berkeley D-Lab
