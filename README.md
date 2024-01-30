@@ -18,7 +18,7 @@ Excel users - complete the following steps:
 5. Open the downloaded workbook on your computer using Microsoft Excel.
 
 Google Sheets users - complete the following steps: 
-1. Open the Google Drive folder (https://drive.google.com/drive/u/1/folders/1L5dgfjUZS-dLrFo2cwwbbbYSK_euCHar)
+1. Open the [D-Lab Google Drive folder](https://drive.google.com/drive/u/1/folders/1L5dgfjUZS-dLrFo2cwwbbbYSK_euCHar)
 2. Open the Google Slides document "Excel Fundamentals - Part 1" or "Excel Fundamentals - Part 2".
 3. Open the "Excel Training Workbook" Google Sheets file from the Google Drive folder.
 
