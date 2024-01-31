@@ -36,3 +36,12 @@ Check out the following resources to learn more about Excel:
 D-Lab works with Berkeley faculty, research staff, and students to advance data-intensive social science and humanities research. Our goal at D-Lab is to provide practical training, staff support, resources, and space to enable you to use R for your own research applications. Our services cater to all skill levels and no programming, statistical, or computer science backgrounds are necessary. We offer these services in the form of workshops, one-to-one consulting, and working groups that cover a variety of research topics, digital tools, and programming languages.  
 
 Visit the [D-Lab homepage](https://dlab.berkeley.edu/) to learn more about us. You can view our [calendar](https://dlab.berkeley.edu/events/calendar) for upcoming events, learn about how to utilize our [consulting](https://dlab.berkeley.edu/consulting) and [data](https://dlab.berkeley.edu/data) services, and check out upcoming [workshops](https://dlab.berkeley.edu/events/workshops).
+
+# Contributors
+
+[Ann Scheliga](https://dlab.berkeley.edu/people/ann-scheliga)
+[Laura Schmahmann](https://dlab.berkeley.edu/people/laura-schmahmann)
+[Severin Saenz](https://dlab.berkeley.edu/people/severin-saenz-mcp)
+[Connor Haley](https://dlab.berkeley.edu/people/connor-haley)
+
+
