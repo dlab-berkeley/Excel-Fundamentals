@@ -39,9 +39,9 @@ Visit the [D-Lab homepage](https://dlab.berkeley.edu/) to learn more about us. Y
 
 # Contributors
 
-[Ann Scheliga](https://dlab.berkeley.edu/people/ann-scheliga)
-[Laura Schmahmann](https://dlab.berkeley.edu/people/laura-schmahmann)
-[Severin Saenz](https://dlab.berkeley.edu/people/severin-saenz-mcp)
-[Connor Haley](https://dlab.berkeley.edu/people/connor-haley)
+* [Ann Scheliga](https://dlab.berkeley.edu/people/ann-scheliga)
+* [Laura Schmahmann](https://dlab.berkeley.edu/people/laura-schmahmann)
+* [Severin Saenz](https://dlab.berkeley.edu/people/severin-saenz-mcp)
+* [Connor Haley](https://dlab.berkeley.edu/people/connor-haley)
 
 
