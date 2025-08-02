@@ -4,7 +4,7 @@ This repository contains the materials for the D-Lab Excel Fundamentals workshop
 ### Prerequisites
 No prior experience is assumed.
 
-Check D-Lab's [Learning Pathways](https://dlab-berkeley.github.io/dlab-workshops/python_path.html) to figure out which of our workshops to take!
+Check out D-Lab’s [Workshop Catalog](https://dlab-berkeley.github.io/dlab-workshops/) to browse all workshops, see what’s running now, and review prerequisites.
 
 ## Workshop Goals
 In this workshop we introduce the fundamentals of spreadsheet data analysis in Microsoft Excel (with supporting materials for Google Sheets). We will introduce the Excel interface and tabs, then demonstrate how Excel functions work. Then, a combination of slides and to-it-yourself exercises will cover basic functions for dealing with text, math, logic, dates, and errors. Finally, we cover data visualization and analysis using charts and pivot tables.
