@@ -1,7 +1,7 @@
 # D-Lab Excel Fundamentals Workshop
 This repository contains the materials for the D-Lab Excel Fundamentals workshop. 
 
-### Prerequisites
+## Prerequisites
 No prior experience is assumed.
 
 Check out D-Lab’s [Workshop Catalog](https://dlab-berkeley.github.io/dlab-workshops/) to browse all workshops, see what’s running now, and review prerequisites.
